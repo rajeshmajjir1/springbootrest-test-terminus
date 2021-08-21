@@ -1,5 +1,3 @@
-# springbootrest-test-terminus
-
 Spring boot REST API Test   Application is for Product Management CRUD Operations.
 ===========================
 
